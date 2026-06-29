@@ -1,2 +1,2 @@
 # deltaDemo
-this is a delta demo description
+this is a delta demo description.
